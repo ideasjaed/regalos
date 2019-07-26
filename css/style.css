@@ -230,7 +230,7 @@ html, body{
     display: block;
     height: 250px;
     width: 100%;
-    background-image: url(/img/flores.jpg);
+    background-image: url(../img/flores.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -240,7 +240,7 @@ html, body{
     display: block;
     height: 250px;
     width: 100%;
-    background-image: url(/img/amor-.jpg);
+    background-image: url(../img/amor-.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -250,7 +250,7 @@ html, body{
     display: block;
     height: 250px;
     width: 100%;
-    background-image: url(/img/navidad.jpg);
+    background-image: url(../img/navidad.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
